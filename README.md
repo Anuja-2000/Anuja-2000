@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuja</h1>
 <h3 align="center">A curious mind with passion to explore the tech world.</h3>
-
+<p>I'm a final year undergraduat at University of Moratuwa, Sri Lanka. Currently reading for a BSc in Information Technology. I'm interested in full stack web and mobile development. I always try to give 100% to a task that I'm assigned. Hoping to contribute my best to the betterment of this industry and humanity as in general.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuja-2000&label=Profile%20views&color=0e75b6&style=flat" alt="anuja-2000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuja-2000" alt="anuja-2000" /></a> </p>
