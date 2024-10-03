@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuja</h1>
-<h3 align="center">A curious mind which is learning the tech world.</h3>
+<h3 align="center">A curious mind with passion to explore the tech world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuja-2000&label=Profile%20views&color=0e75b6&style=flat" alt="anuja-2000" /> </p>
 
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/anuja-wijewardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuja-wijewardana" height="30" width="40" /></a>
 <a href="https://fb.com/anuja wijewardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuja wijewardana" height="30" width="40" /></a>
-<a href="https://medium.com/@anujawijewardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anujawijewardana" height="30" width="40" /></a>
+<a href="https://medium.com/@anujawij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anujawijewardana" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anujawij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anujawij" height="30" width="40" /></a>
 </p>
 
